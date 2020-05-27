@@ -22,11 +22,11 @@
 
 ### Day 3: May 25, 2020
 
-**Today's Progress**:
+**Today's Progress**: Promises were on today's list of priorities. I did not make it back to the todo list but I want to finish it this week before I hit day 8 so I will have to circle right back around. I had been studying random things and although I've done promises they were in need of review before getting to any larger projects. I feel even more comfortable with them and understand how they work better than before so that's a good day.
 
-**Thoughts:**
+**Thoughts:** I can definitely see why promises were needed to avoid all those nested callbacks you can run into when using asynchronus code.
 
-**Link to work:**
+**Link to work:** https://github.com/charlerae/practices/tree/master/promise-practice
 
 
 ### Day 4: May 25, 2020
