@@ -20,7 +20,7 @@
 **Link to work:** https://github.com/studio-rae/project-1
 
 
-### Day 3: May 25, 2020
+### Day 3: May 26, 2020
 
 **Today's Progress**: Promises were on today's list of priorities. I did not make it back to the todo list but I want to finish it this week before I hit day 8 so I will have to circle right back around. I had been studying random things and although I've done promises they were in need of review before getting to any larger projects. I feel even more comfortable with them and understand how they work better than before so that's a good day.
 
@@ -29,7 +29,16 @@
 **Link to work:** https://github.com/charlerae/practices/tree/master/promise-practice
 
 
-### Day 4: May 25, 2020
+### Day 4: May 27, 2020
+
+**Today's Progress**: I did a more promise practice today, this time using async/await.< < A.M. / P.M. > > I started working on a trivia game using callbacks, promises, and async await. It's good practice and I am more confident using these now.
+
+**Thoughts:** SLEEP! That is what is on my mind today. It was a busy day and I had to wake up pretty early after going to bed late so that is really all I could think about today..lol So I'm calling it early tonight, to better code tomorrow.
+
+**Link to work:** https://github.com/charlerae/practices , https://github.com/charlerae/trivia-time
+
+
+### Day 5: May 28, 2020
 
 **Today's Progress**:
 
@@ -38,16 +47,7 @@
 **Link to work:**
 
 
-### Day 5: May 25, 2020
-
-**Today's Progress**:
-
-**Thoughts:**
-
-**Link to work:**
-
-
-### Day 6: May 25, 2020
+### Day 6: May 29, 2020
 
 **Today's Progress**:
 
