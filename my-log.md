@@ -40,6 +40,15 @@
 
 ### Day 5: May 28, 2020
 
+**Today's Progress**: Testing and the todo list version one occupied my time today. I was able to fix a bug in the todoList function method where in the list was not showing up in the browser -only the console. Tomorrow I can deal with the fact that it is printing the whole list every time you add an item. The testing practice was done with a programming partner through so I will have to request that code from them if they don't push it to github.
+
+**Thoughts:** Here it is after midnight finishing up again. I find it difficult to stop working when there is so much I want to do. The thing that really pushes me to get some sleep is knowing that I won't be able to code as well if I don't have sufficient rest.
+
+**Link to work:** https://github.com/studio-rae/project-1
+
+
+### Day 6: May 29, 2020
+
 **Today's Progress**:
 
 **Thoughts:**
@@ -47,7 +56,48 @@
 **Link to work:**
 
 
-### Day 6: May 29, 2020
+### Day 6: May 30, 2020
+
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link to work:**
+
+### Day 6: May 31, 2020
+
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link to work:**
+
+### Day 6: June 1, 2020
+
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link to work:**
+
+
+### Day 6: June 2, 2020
+
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link to work:**
+
+### Day 6: June 3, 2020
+
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link to work:**
+
+### Day 6: June 4, 2020
 
 **Today's Progress**:
 
