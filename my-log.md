@@ -49,22 +49,14 @@
 
 ### Day 6: May 29, 2020
 
-**Today's Progress**:
+**Today's Progress**: Made some progress on the todo list version one project but still more bugs to fix. Also worked on another todo list that was shared with me. For the latter I only wrote tests for the existing modules
 
-**Thoughts:**
+**Thoughts:** I am still not getting enough sleep so I plan to rearrange my schedule to accomadate more rest. Outside of that I am just really enjoying learning so many things about the internet, computers, and so on.
 
-**Link to work:**
+**Link to work:** https://github.com/studio-rae/project-1 and https://github.com/charlerae/wk6-todo-list
 
 
-### Day 6: May 30, 2020
-
-**Today's Progress**:
-
-**Thoughts:**
-
-**Link to work:**
-
-### Day 6: May 31, 2020
+### Day 7: May 30, 2020
 
 **Today's Progress**:
 
@@ -72,7 +64,15 @@
 
 **Link to work:**
 
-### Day 6: June 1, 2020
+### Day 8: May 31, 2020
+
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link to work:**
+
+### Day 9: June 1, 2020
 
 **Today's Progress**:
 
@@ -81,7 +81,7 @@
 **Link to work:**
 
 
-### Day 6: June 2, 2020
+### Day 10: June 2, 2020
 
 **Today's Progress**:
 
