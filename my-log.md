@@ -58,11 +58,11 @@
 
 ### Day 7: May 30, 2020
 
-**Today's Progress**:
+**Today's Progress** Chat Project: So far there is basic styling in css and an html structure. I also watched some videos on fetch
 
-**Thoughts:**
+**Thoughts:** I really enjoy styling the websites but normally I'm concentrating on other javascript parts of the projects. I am realizing that I want to get much better at using grid and flexbox. 
 
-**Link to work:**
+**Link to work:** https://github.com/charlerae/project-2
 
 ### Day 8: May 31, 2020
 
