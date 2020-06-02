@@ -60,25 +60,25 @@
 
 **Today's Progress** Chat Project: So far there is basic styling in css and an html structure. I also watched some videos on fetch
 
-**Thoughts:** I really enjoy styling the websites but normally I'm concentrating on other javascript parts of the projects. I am realizing that I want to get much better at using grid and flexbox. 
+**Thoughts:** I really enjoy styling the websites but normally I'm concentrating on other javascript parts of the projects. I am realizing that I want to get much better at using grid and flexbox.
 
 **Link to work:** https://github.com/charlerae/project-2
 
 ### Day 8: May 31, 2020
 
-**Today's Progress**:
+**Today's Progress**: Not much time to practice today so I read a little in 'Cracking The Code Interview' and started on some simple code challenges
 
-**Thoughts:**
+**Thoughts:** Even though I didn't have much time I still wanted to get something done. I really want to make it all the way to the 100days without missing any. It sets up a great habit here at the beginning and I would like to solidify that before I gain employment. Plus, there is just so darn much to learn!
 
-**Link to work:**
+**Link to work:** https://github.com/charlerae/practices/tree/master/promise-practice
 
 ### Day 9: June 1, 2020
 
-**Today's Progress**:
+**Today's Progress**: Bad computer day, today. I had to do a factory reset it was a whole mess...but I got through it and in the moring I have a little more housekeeping to do and I'll be ready to work. I started work on some memoization and tabulation problems but mostly whiteboarding and set up.
 
-**Thoughts:**
+**Thoughts:** Right now I'm just thinking I hope I can make it a few more months on this computer..lol
 
-**Link to work:**
+**Link to work:** https://github.com/charlerae/memo-tab
 
 
 ### Day 10: June 2, 2020
